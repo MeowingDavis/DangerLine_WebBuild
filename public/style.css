@@ -1,0 +1,8 @@
+body {
+    font-family: monospace;
+    justify-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgba(255, 255, 255, 0.801);
+    background-color: rgba(0, 0, 0, 0.968);
+}
